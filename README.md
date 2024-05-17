@@ -9,14 +9,12 @@ This project is a Google Gemini Clone built using React and Vite. It leverages t
 - **Real-time Data**: Integrates with the Google Gemini API for up-to-date information.
 - **Responsive Design**: Ensures a smooth experience across all devices.
 - **Interactive UI**: Utilizes React's powerful component system to create a dynamic user interface.
-- **[Other Features]**: Add any other unique features here.
 
 ## Features
 
 - **Real-time Data**: Integrates with the Google Gemini API for up-to-date information.
 - **Responsive Design**: Ensures a smooth experience across all devices.
 - **Interactive UI**: Utilizes React's powerful component system to create a dynamic user interface.
-- **[Other Features]**: Add any other unique features here.
 
 ## Installation
 
