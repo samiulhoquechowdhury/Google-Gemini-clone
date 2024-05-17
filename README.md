@@ -26,3 +26,5 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/google-gemini-clone.git
    cd google-gemini-clone
+   npm install
+   npm run dev
