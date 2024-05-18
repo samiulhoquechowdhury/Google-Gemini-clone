@@ -170,3 +170,19 @@
     font-weight: 300;
     line-height: 1.8;
 }
+
+@media (max-width:600px) {
+    .main-buttom input{
+        flex: none;
+        width: 15px;
+    }
+    .main-buttom img {
+        width: 20px;
+    }
+    .search-box{
+        padding: 5px 10px;
+    }
+    .search-box div{
+        gap: 5px;
+    }
+}
