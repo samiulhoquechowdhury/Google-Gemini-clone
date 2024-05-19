@@ -26,8 +26,5 @@ To run this project locally, follow these steps:
    
 ```bash
    cd google-gemini-clone
-
-```bash
    npm install
-
    npm run dev
